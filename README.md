@@ -1,6 +1,6 @@
-### <div align="center">I'm Florine, a developer student 👨‍💻
+### <div align="center">I'm Florine, a developer student 👨‍💻</div>  
   
-
+<div align="center">
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/florine-vnt)  
   
 
@@ -11,6 +11,7 @@
   
 
 <br/>  
+</div>
 
 
 ## My Skill Set  
@@ -78,5 +79,4 @@
 
 
 ----
-</div>  
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
