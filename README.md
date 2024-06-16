@@ -1,10 +1,10 @@
 ### <div align="center">I'm Florine, a developer student 👨‍💻</div>  
 
   
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/florine-vnt)  
+- 🔭 I’m currently working on [my portfolio](https://github.com/florine-vnt/Portfolio)  
   
 
-- 🌱 I’m currently learning JS, React, SQL  
+- 🌱 I’m currently learning JS, React, SQL, Express
   
 
 - 👀 I’m interested in tech, women in tech, sports  
